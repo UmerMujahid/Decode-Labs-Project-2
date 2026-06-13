@@ -1,4 +1,4 @@
-# 🌸 Decode Labs Project 2 — Iris KNN Classifier
+# Decode Labs Project 2 — Iris KNN Classifier
 
 A supervised machine learning project that classifies Iris flower species using the **K-Nearest Neighbors (KNN)** algorithm with scikit-learn.
 
